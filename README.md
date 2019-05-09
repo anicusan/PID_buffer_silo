@@ -1,4 +1,4 @@
-# Simulink Block Model of the PID Control System of a Buffer Silo
+# Multiloop PID Control System of a Buffer Silo
 
 This is a MATLAB / Simulink model of the PID control of a multivariable granular system. 
 
